@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/0e59aff7-d38f-46e6-9f70-7551175fe320)
+![image](https://github.com/user-attachments/assets/dc1b8175-2494-4926-bb1e-6ba6de6b7937)
+
 
 
 <h1 align="center">Hi👋, I'm Dhanalakshmi Venkatesan</h1>
