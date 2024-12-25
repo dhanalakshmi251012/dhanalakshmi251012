@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for Entry Level Job as a **Data Analyst**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/dhanalakhmi251012?tab=repositories].
+- 👨‍💻 All of my projects are available at [https://github.com/dhanalakshmi251012?tab=repositories].
 
 - 📫 How to reach me **dhanalakshmi251012@gmail.com**.
 
